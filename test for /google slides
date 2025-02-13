@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Google Slides</title>
+</head>
+<body>
+
+<h1>My Google Slides Presentation</h1>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQduFJgfbg-TYw7F-5dZES7R8ud-Yf2_s7_KBRz7N9yotlvaRvmg4e4QMBfw1LBEP5kmRYVi0aLuboG/pub?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</body>
+</html>
